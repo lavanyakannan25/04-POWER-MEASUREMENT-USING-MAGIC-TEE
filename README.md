@@ -33,8 +33,6 @@ A magic tee can also be used as a signal combiner. If the signals are fed to bot
 
 If the power flowing into E arm is taken as PE and power flowing out of H-arm as PH thenIsolation(dB) = -10 log10 PH/ PE This assumes that both the collinear arms are match terminated.
 
-
-
 **Power division**
 
 The power fed in either the E or H arm should divide itself equally in both the side arms, when the opposite port is match terminated. If we designate the power entering the E arm as PE and power in side arms as PC1 and PC2 then the ratio of the power coupled in side arms to that entering inthe E-arm is given by the relation.
@@ -68,10 +66,7 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 **Measurement of power division** (Tabulation)
 <img width="3036" height="1812" alt="image" src="https://github.com/user-attachments/assets/5b26924d-9ff2-4d1b-8de7-984e7583a2c0" />
 
-
-
 **G.Analysis of Results: (Write your own)**
-
 
 <img width="2844" height="1072" alt="image" src="https://github.com/user-attachments/assets/b680afa2-3ac5-4104-950b-39ad3a856ef1" />
 
